@@ -4,8 +4,8 @@
 
 ## Podcastr
 
-[![Languages](https://img.shields.io/github/languages/count/josepholiveira/podcastr?color=%238257E5&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/josepholiveira/podcastr?color=8257E5&style=flat-square)](https://github.com/josepholiveira/podcastr/stargazers)
+[![Linguagens](https://img.shields.io/github/languages/count/josepholiveira/podcastr?color=%238257E5&style=flat-square)](#)
+
 
 <h4 align="center">
   Podcastr é uma plataforma construída para transmissão de podcast.
