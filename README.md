@@ -20,7 +20,7 @@
   <img src=".github/tech-logos.png" alt="Technologies used">
 </div>
 
-Esse projeto foi desenvolvido durante a quinta edição do evento Next Level Week da Rocketseat.
+Esse projeto foi desenvolvido acompanhando a quinta edição do evento Next Level Week da Rocketseat como forma de aprendizado.
 
 
 - [ReactJS](https://reactjs.org/)
