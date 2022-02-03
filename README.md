@@ -9,51 +9,52 @@
 [![Stars](https://img.shields.io/github/stars/josepholiveira/podcastr?color=8257E5&style=flat-square)](https://github.com/josepholiveira/podcastr/stargazers)
 
 <h4 align="center">
-  Podcastr is a platform built for podcast broadcasting.
+  Podcastr é uma plataforma construída para transmissão de podcast.
 </h4>
 
 ![Podcastr preview](.github/app-preview.png)
 
-## Tecnologies
+## Tecnologias
 
 <div align="center">
   <br />
   <img src=".github/tech-logos.png" alt="Technologies used">
 </div>
 
-This project was developed using cutting edge front-end technologies.
+Esse projeto foi desenvolvido durante a quinta edição do evento Next Level Week da Rocketseat.
 
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 
-## 💻 Getting started
+## 💻 Começando
 
-### Requirements
+### Requerimentos
 
-- You need to install both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) to run this project.
+- Você precisa instalar ambos [Node.js](https://nodejs.org/en/download/) e [Yarn](https://yarnpkg.com/) para rodar esse projeto.
 
-**Clone the project and access the folder**
+**Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/gabrielleles/podcastrnext.git && cd podcastr
 ```
 
-**Follow the steps below**
+**Siga os passos abaixo**
 
 ```bash
-# Install the dependencies
+# Instalar as dependências
 $ yarn
 
-# Run the backend fake server
+# Rodar o servidor backend fake
 $ yarn server
 
-# Run the web server
+# Rodar o servidor web
 $ yarn dev
 ```
 
-The app will be available for access on your browser at `http://localhost:3000`
+
+A aplicação estará disponível para acesso em seu navegador em `http://localhost:3000`
 
 ## 📝 License
 
@@ -61,4 +62,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by Joseph Oliveira 👋 [Check out my LinkedIn](https://www.linkedin.com/in/joseph-oliveira-294a19165)
