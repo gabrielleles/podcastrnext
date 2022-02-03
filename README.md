@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido acompanhando a quinta edição do evento Next Leve
 **Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/gabrielleles/podcastrnext.git && cd podcastr
+$ git clone https://github.com/gabrielleles/podcastrnext.git && cd podcastrnext
 ```
 
 **Siga os passos abaixo**
